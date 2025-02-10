@@ -17,16 +17,16 @@ print(str[6:45:6])
 #Here "id" refers to memory block--> it will print the address of number 5.
 num1=5
 print(id(num1)) 
-str1="pooji"
+str1="naresh"
 print(id(str1))
-str2="pooji"
+str2="naresh"
 print(id(str2))
 
 #Data types
 print(type(4))
 print(type(4.0))
 print(type('c'))
-print(type("pooji"))
+print(type("NARESAH"))
 print(type(5+8j))
 
 #We cannot change substring to existing string, because strings are immutable data type (cannot be change)
